@@ -1,2 +1,2 @@
 # MyRepo
-his is my first reo
+his is my first repi
